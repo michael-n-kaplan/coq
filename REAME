@@ -4,3 +4,20 @@ Notes and coq scripts from playing around and reading various sources including:
   Interactive Theorem Proving and Program Development by Bertot and Casteran
 
 Testing github code editing
+
+References for Algebra in coq
+  -- http://stackoverflow.com/questions/7990301/building-a-class-hierarchy-in-coq
+  -- http://mattam.org/research/publications/First-Class_Type_Classes.pdf
+  -- http://coq.inria.fr/refman/Reference-Manual024.html
+  -- http://arxiv.org/abs/1102.1323
+  -- http://pastel.archives-ouvertes.fr/pastel-00649586
+    -- https://github.com/huitseeker
+    -- www.garillot.net/‎
+    -- Francois Garillot
+  
+
+Generic Proof Tools and Finite group Theory (coq thesis)
+  http://pastel.archives-ouvertes.fr/docs/00/64/95/86/PDF/manuscript.pdf
+  http://pastel.archives-ouvertes.fr/pastel-00649586
+  
+g: Developing the Algebraic Hierarchy with Type Classes in Coq
